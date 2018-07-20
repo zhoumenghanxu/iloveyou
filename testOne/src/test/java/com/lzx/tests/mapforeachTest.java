@@ -278,6 +278,10 @@ public class mapforeachTest {
     public void dddd(List<Integer> xx){
         ArrayList<Integer> Integes = Lists.newArrayList();
         Integes.add(1);
+
+
+
+
         xx=Integes;
     }
 }

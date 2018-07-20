@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c4414fc-6156-4c50-a5bb-1d73609df1dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c4414fc-6156-4c50-a5bb-1d73609df1dd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +41,8 @@
       <file leaf-file-name="mapforeachTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lzx/tests/mapforeachTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="273" column="46" lean-forward="true" selection-start-line="273" selection-start-column="46" selection-end-line="273" selection-end-column="46" />
+            <state relative-caret-position="306">
+              <caret line="274" column="29" lean-forward="true" selection-start-line="274" selection-start-column="29" selection-end-line="275" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -609,7 +607,7 @@
       <workItem from="1531809182445" duration="3814000" />
       <workItem from="1531913007823" duration="1436000" />
       <workItem from="1531984910210" duration="695000" />
-      <workItem from="1532052184386" duration="153000" />
+      <workItem from="1532052184386" duration="700000" />
     </task>
     <servers />
   </component>
@@ -646,7 +644,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69534000" />
+    <option name="totallyTimeSpent" value="70081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1100,8 +1098,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lzx/tests/mapforeachTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="273" column="46" lean-forward="true" selection-start-line="273" selection-start-column="46" selection-end-line="273" selection-end-column="46" />
+        <state relative-caret-position="306">
+          <caret line="274" column="29" lean-forward="true" selection-start-line="274" selection-start-column="29" selection-end-line="275" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
