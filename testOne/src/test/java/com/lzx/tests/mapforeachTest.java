@@ -228,6 +228,7 @@ public class mapforeachTest {
         System.out.println(now2);
         System.out.println(now3);
         System.out.println(now4);
+        System.out.println(now4);
        /* LocalDate birthday = LocalDate.of(1996, 12, 20);
         LocalDate now = LocalDate.now();
         MonthDay birth = MonthDay.of(birthday.getMonth(), birthday.getDayOfMonth());
