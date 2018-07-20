@@ -279,15 +279,5 @@ public class mapforeachTest {
         ArrayList<Integer> Integes = Lists.newArrayList();
         Integes.add(2);
         xx=Integes;
-
-
-
-
-
-
-
-
-
-
     }
 }
