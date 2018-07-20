@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c4414fc-6156-4c50-a5bb-1d73609df1dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzx/tests/interfaces/bigFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzx/tests/models/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzx/tests/models/PersonVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzx/tests/models/testModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mapforeachTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mapforeachTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lzx/tests/mapforeachTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="258" column="32" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
+            <state relative-caret-position="288">
+              <caret line="273" column="46" lean-forward="true" selection-start-line="273" selection-start-column="46" selection-end-line="273" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,10 +178,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lzx/tests/models/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
+            <state relative-caret-position="306">
               <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -326,7 +322,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
@@ -612,6 +608,8 @@
       <workItem from="1531463334467" duration="299000" />
       <workItem from="1531809182445" duration="3814000" />
       <workItem from="1531913007823" duration="1436000" />
+      <workItem from="1531984910210" duration="695000" />
+      <workItem from="1532052184386" duration="153000" />
     </task>
     <servers />
   </component>
@@ -648,7 +646,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68686000" />
+    <option name="totallyTimeSpent" value="69534000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,7 +658,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -670,9 +668,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.26108727" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32848486" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49212122" weight="0.33333334" />
@@ -681,44 +679,44 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="8" visible="true" weight="0.32969698" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" order="8" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.32969698" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49212122" visible="true" weight="0.33333334" />
       <window_info id="Structure" order="1" sideWeight="0.5078788" side_tool="true" weight="0.3118741" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
-      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.32969698" />
       <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32969698" />
+      <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32969698" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.26108727" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -1090,20 +1088,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lzx/tests/mapforeachTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzx/tests/models/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="258" column="32" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
+        <state relative-caret-position="306">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzx/tests/models/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lzx/tests/mapforeachTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="273" column="46" lean-forward="true" selection-start-line="273" selection-start-column="46" selection-end-line="273" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
